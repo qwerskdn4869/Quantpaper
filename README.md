@@ -8,6 +8,7 @@ Thư viện 21 paper về nghiên cứu định lượng, backtesting, lựa ch�
 - Tên file là tiêu đề paper viết **IN HOA**, dùng dấu gạch dưới thay khoảng trắng và giữ đuôi `.pdf`.
 - Khi hai PDF có cùng tiêu đề, hậu tố sau `__` chỉ phiên bản/nguồn để giữ cả hai bản.
 - Cột **Tên gốc** giúp đối chiếu với file trước khi sắp xếp. Nội dung và metadata bên trong PDF được giữ nguyên.
+- Xem [AGENT.md](AGENT.md) để thêm hoặc sắp xếp paper về sau.
 
 ## BACKTESTING_AND_OVERFITTING
 
