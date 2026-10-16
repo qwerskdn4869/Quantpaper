@@ -8,7 +8,7 @@ This repository is a curated collection of quantitative research papers. Keep th
 2. Put each PDF in the folder matching its primary topic. Reuse an existing folder when appropriate.
 3. Name the file with the full title in uppercase ASCII letters, using underscores between words and a lowercase `.pdf` extension. Remove punctuation that is unsafe or awkward in paths.
 4. If two PDFs share a title, append `__` and a short uppercase source or version label before `.pdf`. Preserve both versions.
-5. Add or update the paper's entry in `README.md`. Keep its link relative and record the original filename in the `Tên gốc` column.
+5. Add or update the paper's entry in `README.md`. Keep its link relative and record the original filename in the table.
 
 ## Checks before committing
 
